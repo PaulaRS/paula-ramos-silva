@@ -76,7 +76,7 @@ email: 'paula.srs@gmail.com'
 highlight_name: true
 ---
 
-I am an evolutionary biologist passionate about biological data with over 12 years experience in research and education. I combine multiple omics data (genomics, transcriptomics and proteomics) with advanced microscopy to address diverse questions, from the evolution of bacterial cells to the formation of animal skeletons. I tackle these questions by looking at the genetic machinery involved in these processes and by tracing their evolution across species. 
+I am an evolutionary biologist passionate about biological data with over 12 years experience in research and education. I combine multiple omics data (genomics, transcriptomics and proteomics) with advanced microscopy to address diverse questions, from the evolution of bacterial cells to the formation of animal skeletons. I tackle these questions by looking at the genetic machinery involved in these processes and by tracing its evolution across species. 
 
 
 {{< icon name="download" pack="fas" >}}My{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
