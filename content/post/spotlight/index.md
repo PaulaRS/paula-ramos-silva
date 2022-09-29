@@ -1,9 +1,9 @@
 ---
-title: The amazing shells of sea butterflies
-subtitle: It is always an enormous pleasure to speak to the museum visitors about our research 🐚. This time I have teamed up with Giada Spagliardi (Naturalis) to share our passion for sea shells and explain **how** and **why** they are used by scientists. During this Spolight we explained not only how shells are built but also how they serve as environmental sentinels and how they can be used to predict evolution. 
+title: The secrets of sea shells 🐚
+subtitle: I love speaking to the museum visitors about our research 🐚. On this day the sun was shinning bright in Leiden, which doesn't invite for a day out at the museum, but we had a superb audience! I have teamed up with Giada Spagliardi (who is doing her MSc at Naturalis) to share our passion for sea shells and explain **how** and **why** they are used by scientists like us. During this Spolight session we explained not only how shells are built but also how they serve as environmental sentinels and how they can be used to predict evolution. 
 
 # Summary for listings and search engines
-summary: It is always an enormous pleasure to speak to the museum visitors about our research.
+summary: September was the Ocean's month at Naturalis and we shared the most of our work with the museum visitors
 
 # Link this post with a project
 projects: [EPIC]
@@ -25,7 +25,7 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  placement: 3
   preview_only: false
 
 authors:
