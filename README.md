@@ -1,2 +1,2 @@
-# paulars.github.io
+# paulars
 Personal website of Paula Ramos-Silva
