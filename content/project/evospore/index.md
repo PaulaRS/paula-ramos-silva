@@ -1,6 +1,6 @@
 ---
 title: Understanding the evolutionary history and the diversity of bacterial endosporulation 
-summary: The project EvoSpore was funded by the Portuguese Foundation for Science and Technology. The goal was to uncover the origin and evolution of bacterial endosporulation through comparative genomics. This is a developmental pathway that initiates from the vegetative cell and culminates with the formation of highly resistant, dormant spores. Spores are everywhere, they allow environmental persistence, dissemination and are infection vehicles for pathogens. 
+summary: The project EvoSpore was funded by the Portuguese Foundation for Science and Technology. The goal was to uncover the origin and evolution of bacterial endosporulation through comparative genomics. Endosporulation is a developmental pathway that initiates from the vegetative cell and culminates with the formation of highly resistant, dormant spores. Spores are everywhere, they allow environmental persistence, dissemination and are infection vehicles for pathogens. 
 tags:
   - EvoSpore
   - comparative genomics
