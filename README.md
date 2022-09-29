@@ -1,2 +1,2 @@
-# paula-ramos-silva
+# paulars
 Personal website of Paula Ramos-Silva
