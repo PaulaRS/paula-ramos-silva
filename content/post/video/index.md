@@ -3,7 +3,7 @@ title: Evolution and biomineralization of pteropod shells
 subtitle: The promotional video of  the review paper [**Evolution and biomineralization of pteropod shells**](https://www.sciencedirect.com/science/article/pii/S1047847721000848) was released. This video was created in collaboration with [Studio de Maan](https://studiodemaan.nl) and it gives a glimpse of the striking diversity of shell walls made by sea butterflies (or pteropods). You can watch it on [Youtube](https://www.youtube.com/watch?v=B_mzspO0Jzw). Sea butterflies are small gastropods that spend their entire live swimming and drifting in the open ocean. They are widely regarded as bioindicators of ocean acidification because they build thin shells of aragonite, a for of calcium carbonate. Despite being thin, pteropod shells are very strong and were uniquely built to withstand flows. They are an inspiration for the design of ultrathin and strong materials. 
 
 # Summary for listings and search engines
-summary: Promotional video of the paper _Evolution and biomineralization of pteropod shells_.
+summary: Promotional video of the paper **Evolution and biomineralization of pteropod shells**.
 
 # Link this post with a project
 projects: [EPIC]
