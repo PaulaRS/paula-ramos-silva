@@ -27,7 +27,7 @@ image:
   focal_point: center
   placement: 1
   preview_only: false
-
+  
 authors:
   - admin
   - 

@@ -9,10 +9,10 @@ summary: September was the Ocean's month at Naturalis and we shared the most of 
 projects: [EPIC]
 
 # Date published
-date: '2022-09-04T00:00:00Z'
+date: '2022-09-02T00:00:00Z'
 
 # Date updated
-lastmod: '2022-09-04T00:00:00Z'
+lastmod: '2022-09-02T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
