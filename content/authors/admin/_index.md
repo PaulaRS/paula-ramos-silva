@@ -10,7 +10,7 @@ role: Evolutionary Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Naturalis Biodiversity Center
+  - name: 
     url:
 
 # Short bio (displayed in user profile at end of posts)
