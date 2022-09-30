@@ -26,7 +26,7 @@ experience:
     company: University of Amsterdam
     company_url: 'https://www.uva.nl/en'
     company_logo: 
-    location: Amsterdam
+    location: Amsterdam, The Netherlands
     date_start: '2022-01-14'
     date_end: '2022-08-31'
     description:
