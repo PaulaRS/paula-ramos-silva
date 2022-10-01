@@ -6,7 +6,7 @@ title: Paula Ramos-Silva
 superuser: true
 
 # Role/position/tagline
-role: Evolutionary Biologist
+role: Evolutionary Biologist, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
