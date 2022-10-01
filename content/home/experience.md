@@ -38,7 +38,7 @@ experience:
     location: Leiden, The Netherlands
     date_start: '2018-07-01'
     date_end: '2022-01-11'
-    description: Researcher of the groups Plankton Diversity and Evolution and Marine Biodiversity 
+    description: Researcher in the groups Plankton Diversity and Evolution and Marine Biodiversity 
     
   - title: Postdoctoral Fellow
     company: Instituto Gulbenkian de Ciência
@@ -47,7 +47,7 @@ experience:
     location: Oeiras, Portugal
     date_start: '2014-03-01'
     date_end: '2018-05-31'
-    description: Researcher of the Computational Genomics Laboratory
+    description: Researcher in the Computational Genomics Laboratory
 
 
 design:
