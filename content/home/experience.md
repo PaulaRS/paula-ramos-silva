@@ -29,16 +29,16 @@ experience:
     location: Amsterdam, The Netherlands
     date_start: '2022-01-14'
     date_end: '2022-08-31'
-    description:
+    description: Researcher at the Institute for Biodiversity and Ecosystem Dynamics (IBED)
 
   - title: Postdoctoral Fellow
     company: Naturalis Biodiversity Center
-    company_url: https://www.naturalis.nl/en/science/researchers/paula-ramos-silva
+    company_url: https://www.naturalis.nl
     company_logo: 
     location: Leiden, The Netherlands
     date_start: '2018-07-01'
     date_end: '2022-01-11'
-    description:
+    description: Researcher in the groups Marine Biodiversity and Plankton Diversity and Evolution
     
   - title: Postdoctoral Fellow
     company: Instituto Gulbenkian de Ciência
@@ -47,7 +47,7 @@ experience:
     location: Oeiras, Portugal
     date_start: '2014-03-01'
     date_end: '2018-05-31'
-    description:
+    description: Researcher in the Computational Genomics Laboratory
 
 
 design:
