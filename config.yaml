@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Paula Ramos-Silva # Website name
-baseURL: "https://paularsilva.netlify.app" # Website URL
+baseURL: "https://www.paularsilva.com" # Website URL
 
 ############################
 ## LANGUAGE
