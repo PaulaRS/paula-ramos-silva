@@ -1,6 +1,6 @@
 ---
 title: Evolution of Planktonic Gastropod Calcification
-summary: Ocean acidification due to excess of CO2 reduces the amount of calcium carbonate in seawater, placing a wide range of marine calcifiers under stress. Planktonic snails are among the most vulnerable calcifiers since they inhabit the open ocean and make thin shells of calcium carbonate. Still, it is difficult to predict their future in acidified waters. The Marie Skłodowska-Curie project EPIC aimed at studying the evolutionary processes by which shell formation evolved in planktonic snails and forecast their potential to adapt under long-term ocean acidification. 
+summary: Ocean acidification due to increasing CO2 reduces the amount of carbonate ions in seawater, putting a wide range of marine calcifiers at risk. Sea butterflies are among the most vulnerable calcifiers since they inhabit the open ocean and make thin shells of calcium carbonate. Genetic tools for these planktonic snails are scarce, making it difficult to predict their future in acidified waters. The Marie Skłodowska-Curie project EPIC aimed at studying the molecular processes by which shell formation evolved in sea butterflies over macroevolutionary scales and to inform on their potential to adapt under long-term ocean acidification.
 tags:
   - EPIC
   - transcriptomics
