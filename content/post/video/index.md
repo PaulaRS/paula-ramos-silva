@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Sea butterflies and shell structures
+  caption: 
   focal_point: center
   placement: 1
   preview_only: false
