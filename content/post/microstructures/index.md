@@ -3,7 +3,7 @@ title: Helical crystals in the shells of sea butterflies and adaptation to flow
 subtitle: With their flapping wing-like appendages, sea butterflies are unique inhabitants of the open ocean. These pelagic snails are active swimmers, but also drifters, which makes them subject to a diverse range of flow regimes around their shells and their bodies. Some sea butterflies have developed shells made of crystal fibers that coil in perfect helices of a few nanometers. These enigmatic helical crystals have been the topic of intense discussion by [**material scientists**] (https://link.springer.com/article/10.1557/s43577-021-00229-7) and their helical nature has been recently questioned. However, in two recent collaborative works between Naturalis, University of Granada and the AGH University of Science and Technology in Kraków we provide unambiguous evidence that the calcium carbonate fibers secreted by sea buterflies describe true helical trajectories during growth.
 
 # Summary for listings and search engines
-summary: Collaborative work on the helical fibers that make up pteropod shell microstructures
+summary: Collaborative work on the helical nature of crystal fibers from pteropod shells
 
 # Link this post with a project
 projects: [EPIC]
