@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#paula.srs@gmail.com'
+    link: 'paula.srs@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PaulaBiomine
