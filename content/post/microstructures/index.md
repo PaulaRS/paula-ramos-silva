@@ -36,6 +36,7 @@ tags:
   - helical
   - biominerals
   - molluscs
+  - modelling
 
 categories:
   - 
@@ -44,12 +45,16 @@ categories:
 links:
   - icon: 
     icon_pack: 
-    name: Video
-    url: https://www.youtube.com/watch?v=B_mzspO0Jzw
+    name: Press release
+    url: https://physics.aps.org/articles/v15/s140
   - icon: 
     icon_pack: 
-    name: Publication
-    url: https://www.sciencedirect.com/science/article/pii/S1047847721000848
+    name: Publication 1
+    url: https://arxiv.org/abs/2210.10478
+  - icon: 
+    icon_pack: 
+    name: Publication 2
+    url: https://link.springer.com/article/10.1557/s43577-022-00418-y
 
 ---
 
