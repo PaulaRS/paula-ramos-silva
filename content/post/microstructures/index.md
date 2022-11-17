@@ -13,7 +13,7 @@ projects: [EPIC]
 date: '2021-09-02T00:00:00Z'
 
 # Date updated
-lastmod: '2021-11-01T00:00:00Z'
+lastmod: '2021-11-02T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
