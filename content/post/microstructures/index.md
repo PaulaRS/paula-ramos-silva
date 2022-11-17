@@ -1,5 +1,5 @@
 ---
-title: Helical crystals in shells of sea butterflies and adaptation to flow
+title: Helical crystals in shells of sea butterflies - adaptation to flow
 subtitle: With flapping, wing-like appendages that extend from their foot, sea butterflies are some of the stranger inhabitants of the world’s oceans. These creatures, which are actually swimming snails, typically have translucent, calcified shells with complex microscopic structures. Now Julyan Cartwright of the University of Granada, Spain, and colleagues have confirmed that the shells of at least two families of these creatures are formed of helical filaments of calcium carbonate. The team proposes that these twisty microstructures develop from liquid-crystalline precursors.
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary: Collaborative work on pteropod shell microstructures.
 projects: [EPIC]
 
 # Date published
-date: '2022-11-17T00:00:00Z'
+date: '2021-09-02T00:00:00Z'
 
 # Date updated
-lastmod: '2022-11-17T00:00:00Z'
+lastmod: '2021-09-02T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
