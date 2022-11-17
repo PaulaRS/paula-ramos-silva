@@ -1,5 +1,5 @@
 ---
-title: Helical crystals make up the shells of sea butterflies: Adaptation to flow? 
+title: Helical crystals make up the shells of sea butterflies: Adaptation to flow
 subtitle: TBA
 
 # Summary for listings and search engines
