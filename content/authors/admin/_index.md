@@ -20,9 +20,10 @@ bio:
 interests:
   - Molecular Evolution
   - Comparative Genomics
-  - Bioinformatics
   - Proteomics
   - Transcriptomics
+  - Bioinformatics
+  - Data visualization
   - Biomineralization
   
 # Education to show in About widget
