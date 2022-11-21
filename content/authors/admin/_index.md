@@ -22,6 +22,7 @@ interests:
   - Comparative Genomics
   - Bioinformatics
   - Proteomics
+  - Transcriptomics
   - Biomineralization
   
 # Education to show in About widget
