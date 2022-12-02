@@ -29,7 +29,7 @@ experience:
     location: Amsterdam, The Netherlands
     date_start: '2022-01-14'
     date_end: '2022-08-31'
-    description: I did research and supervised MSc projects in transcriptomics responses of planktonic gastropods to carbon dioxide
+    description: I did research and supervised MSc projects in transcriptomic responses of planktonic gastropods to carbon dioxide
 
   - title: Postdoctoral Fellow
     company: Naturalis Biodiversity Center
