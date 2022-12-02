@@ -29,8 +29,7 @@ experience:
     location: Amsterdam, The Netherlands
     date_start: '2022-01-14'
     date_end: '2022-08-31'
-    description: 'At the Institute for Biodiversity and Ecosystem Dynamics (IBED) I did research and supervised MSc projects in                       transcriptomics of shelled planktonic gastropods under past, present and future CO2.'                .
-
+    description: I did research and supervised MSc projects in transcriptomics responses of planktonic gastropods to CO2.             .
   - title: Postdoctoral Fellow
     company: Naturalis Biodiversity Center
     company_url: https://www.naturalis.nl
@@ -38,7 +37,7 @@ experience:
     location: Leiden, The Netherlands
     date_start: '2018-07-01'
     date_end: '2022-01-11
-    description: 'Here, I have been a researcher in the groups Plankton Diversity and Evolution and Marine Biodiversity. I have                     analysed multiple proteomics datasets from sea butterflies shells, to better understand the extracellular/molecular                 mechanisms that govern shell formation in this group of planktonic molluscs. I have also supervised two MSc research                 projects in bioinformatics.'  
+    description: I used proteomics for sea butterflies shells to better understand the mechanisms that govern their shell formation.
     
   - title: Postdoctoral Fellow
     company: Instituto Gulbenkian de Ciência
@@ -47,7 +46,7 @@ experience:
     location: Oeiras, Portugal
     date_start: '2014-03-01'
     date_end: '2018-05-31'
-    description: 'Here, I was a researcher of the Computational Genomics Laboratory. I used bacterial comparative genomics to trace                 the origin and evolution of the sporulation genetic machinery in Firmicutes across macroevolutionary timescales.'
+    description: I used bacterial comparative genomics to trace the evolution of the sporulation genetic machinery in Firmicutes.
 
 
 design:
