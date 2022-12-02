@@ -29,7 +29,7 @@ experience:
     location: Amsterdam, The Netherlands
     date_start: '2022-01-14'
     date_end: '2022-08-31'
-    description: I did research and supervised MSc projects in transcriptomics responses of planktonic gastropods to CO2
+    description: I did research and supervised MSc projects in transcriptomics responses of planktonic gastropods to carbon dioxide
 
   - title: Postdoctoral Fellow
     company: Naturalis Biodiversity Center
@@ -38,7 +38,7 @@ experience:
     location: Leiden, The Netherlands
     date_start: '2018-07-01'
     date_end: '2022-01-11'
-    description: I used proteomics for sea butterflies shells to better understand the mechanisms governing their shell formation
+    description: I used proteomics for sea butterflies shells, to better understand the mechanisms governing their shell formation
     
   - title: Postdoctoral Fellow
     company: Instituto Gulbenkian de Ciência
@@ -47,7 +47,7 @@ experience:
     location: Oeiras, Portugal
     date_start: '2014-03-01'
     date_end: '2018-05-31'
-    description: I used comparative genomics to trace the macroevolution of the sporulation genetic machinery in bacteria
+    description: I used comparative genomics to trace the origin and macroevolution of sporulation in bacteria
 
 design:
   columns: '2'
