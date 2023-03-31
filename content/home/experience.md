@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Leiden, The Netherlands
     date_start: '2018-07-01'
-    date_end: 'Present'
+    date_end:
     description: I use proteomics for sea butterflies shells, to better understand the mechanisms governing their shell formation
     
   - title: Senior Postdoctoral Researcher
