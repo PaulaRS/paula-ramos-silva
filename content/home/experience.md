@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Technical Application Scientist
+    company: NanoString Technologies
+    company_url: https://www.nanostring.com
+    company_logo: 
+    location: Amsterdam, The Netherlands
+    date_start: '2023-03-06'
+    date_end:
+    description: I support customers resolving complex issues, from sample prep to instrument troubleshooting and data analysis
   - title: Postdoctoral Fellow/Guest Researcher
     company: Naturalis Biodiversity Center
     company_url: https://www.naturalis.nl
@@ -30,7 +38,6 @@ experience:
     date_start: '2018-07-01'
     date_end:
     description: I use proteomics for sea butterflies shells, to better understand the mechanisms governing their shell formation
-    
   - title: Senior Postdoctoral Researcher
     company: University of Amsterdam
     company_url: 'https://www.uva.nl/en'
