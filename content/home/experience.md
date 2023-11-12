@@ -30,7 +30,7 @@ experience:
     date_start: '2023-03-06'
     date_end:
     description: I support customers resolving complex issues, from sample prep to instrument troubleshooting and data analysis
-  - title: Postdoctoral Fellow/Guest Researcher
+  - title: Marie Skłodowska-Curie Research Fellow
     company: Naturalis Biodiversity Center
     company_url: https://www.naturalis.nl
     company_logo: 
@@ -38,7 +38,7 @@ experience:
     date_start: '2018-07-01'
     date_end:
     description: I use proteomics for sea butterflies shells, to better understand the mechanisms governing their shell formation
-  - title: Senior Postdoctoral Researcher
+  - title: Senior Postdoctoral Researcher in Bioinformatics
     company: University of Amsterdam
     company_url: 'https://www.uva.nl/en'
     company_logo: 
@@ -47,7 +47,7 @@ experience:
     date_end: '2022-08-31'
     description: I did research and supervised MSc projects in transcriptomic responses of planktonic gastropods to carbon dioxide
     
-  - title: Postdoctoral Fellow
+  - title: Postdoctoral Fellow in Computational Genomics
     company: Instituto Gulbenkian de Ciência
     company_url: https://gulbenkian.pt/ciencia/
     company_logo: 

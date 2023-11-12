@@ -41,12 +41,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: mastodon
-    icon_pack: fab
-    link: https://fosstodon.org/@PaulaBiomine
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/PaulaBiomine
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=nSuwC44AAAAJ&hl=en&oi=ao
@@ -78,7 +72,7 @@ email: 'paula.srs@gmail.com'
 highlight_name: true
 ---
 
-I am an evolutionary biologist and bioinformatician with over 12 years experience in research and education. I combine large-scale omics data (genomics, transcriptomics and proteomics) with advanced microscopy to address diverse questions, from the evolution of bacterial cells to the formation of animal skeletons. My approach is to identify/compile the genetic machinery involved in these processes and to trace their evolutionary paths across species in order to discover major transitions under global change.
+I am an evolutionary biologist and bioinformatician with over 16 years experience in research and education. I combine large-scale omics data (genomics, transcriptomics and proteomics) with advanced microscopy to address diverse questions, from the evolution of bacterial cells to the formation of animal skeletons. My approach is to identify/compile the genetic machinery involved in these processes and to trace their evolutionary paths across species in order to discover major transitions under global change.
 
 
 {{< icon name="download" pack="fas" >}}My{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
