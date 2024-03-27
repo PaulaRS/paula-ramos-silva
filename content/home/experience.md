@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Selected professional experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,24 +29,15 @@ experience:
     location: Amsterdam, The Netherlands
     date_start: '2023-03-06'
     date_end:
-    description: I support customers resolving complex issues, from sample prep to instrument troubleshooting and data analysis
-  - title: Marie Skłodowska-Curie Research Fellow
+    description: I support researchers resolving complex issues, from sample prep to instrument troubleshooting and multi-omics data analysis.
+  - title: Marie Skłodowska-Curie Researcher
     company: Naturalis Biodiversity Center
     company_url: https://www.naturalis.nl
     company_logo: 
     location: Leiden, The Netherlands
     date_start: '2018-07-01'
-    date_end:
-    description: I use proteomics for sea butterflies shells, to better understand the mechanisms governing their shell formation
-  - title: Senior Postdoctoral Researcher in Bioinformatics
-    company: University of Amsterdam
-    company_url: 'https://www.uva.nl/en'
-    company_logo: 
-    location: Amsterdam, The Netherlands
-    date_start: '2022-01-14'
     date_end: '2022-08-31'
-    description: I did research and supervised MSc projects in transcriptomic responses of planktonic gastropods to carbon dioxide
-    
+    description: I used omics approaches in planktonic calcifiers, to better understand the mechanisms governing their shell formation and impacts of ocean acidification on this process. 
   - title: Postdoctoral Fellow in Computational Genomics
     company: Instituto Gulbenkian de Ciência
     company_url: https://gulbenkian.pt/ciencia/
@@ -54,7 +45,7 @@ experience:
     location: Oeiras, Portugal
     date_start: '2014-03-01'
     date_end: '2018-05-31'
-    description: I used comparative genomics to trace the origin and macroevolution of sporulation in bacteria
+    description: I used comparative genomics to trace the origin and macroevolution of sporulation in bacteria.
 
 design:
   columns: '2'

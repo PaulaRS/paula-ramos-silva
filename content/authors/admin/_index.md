@@ -6,25 +6,25 @@ title: Paula Ramos-Silva
 superuser: true
 
 # Role/position/tagline
-role: Evolutionary Biologist, PhD
+role: Molecular Biologist and Bioinformatician (she/her, PhD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
+  - name: NanoString Technologies
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Molecular Biologist and Bioinformatician (she/her, PhD)
 
 # Interests to show in About widget
 interests:
   - Molecular Evolution
-  - Comparative Genomics
-  - Proteomics
-  - Transcriptomics
+  - Omics
   - Bioinformatics
   - Data visualization
   - Biomineralization
+  - Spatial Biology
+  
   
 # Education to show in About widget
 education:
@@ -72,7 +72,6 @@ email: 'paula.srs@gmail.com'
 highlight_name: true
 ---
 
-I am an evolutionary biologist and bioinformatician with over 16 years experience in research and education. I combine large-scale omics data (genomics, transcriptomics and proteomics) with advanced microscopy to address diverse questions, from the evolution of bacterial cells to the formation of animal skeletons. My approach is to identify/compile the genetic machinery involved in these processes and to trace their evolutionary paths across species in order to discover major transitions under global change.
+I bring over 16 years of diverse experience in tech support, research, and education to the table as a seasoned bioinformatician and molecular biologist. Throughout my career, I've integrated large-scale omics data with advanced microscopy techniques to delve into deep evolutionary questions, from the evolution of bacterial spores to the formation of animal skeletons. With a flexible approach, a service-oriented mindset, and a relentless drive for results, I'm now seeking a new opportunity where I can elevate my passion for multi-omics data to the next level.  
 
-
-{{< icon name="download" pack="fas" >}}My{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}Download my{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
