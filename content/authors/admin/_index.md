@@ -72,6 +72,6 @@ email: 'paula.srs@gmail.com'
 highlight_name: true
 ---
 
-I bring over 16 years of diverse experience in tech support, research, and education to the table as a seasoned bioinformatician and molecular biologist. Throughout my career, I've integrated large-scale omics data with advanced microscopy techniques to delve into deep evolutionary questions, from the evolution of bacterial spores to the formation of animal skeletons. With a flexible approach, a service-oriented mindset, and a relentless drive for results, I'm now seeking a new opportunity where I can elevate my passion for multi-omics data to the next level.  
+I bring over 16 years of diverse experience in tech support, research, and education as a seasoned bioinformatician and molecular biologist. Throughout my career, I've integrated large-scale omics data with microscopy to dive into deep evolutionary questions, from the evolution of bacterial spores to the formation of animal skeletons. With a flexible approach, a service-oriented mindset, and a relentless drive for results, I'm now seeking a new opportunity where I can elevate my passion for multi-omics data to the next level.  
 
 {{< icon name="download" pack="fas" >}}Download my{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
