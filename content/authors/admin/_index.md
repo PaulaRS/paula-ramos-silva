@@ -10,7 +10,7 @@ role: Molecular Biologist and Bioinformatician (she/her, PhD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: NanoString Technologies
+  - name: 
     url:
 
 # Short bio (displayed in user profile at end of posts)

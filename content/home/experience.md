@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
-subtitle: Selected professional experience
+title: Professional experience
+subtitle: ''
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,7 +29,7 @@ experience:
     location: Amsterdam, The Netherlands
     date_start: '2023-03-06'
     date_end:
-    description: I support researchers resolving complex issues, from sample prep to instrument troubleshooting and multi-omics data analysis.
+    description: I support researchers in resolving complex issues, from sample prep to instrument troubleshooting and multi-omics data analyses.
   - title: Marie Skłodowska-Curie Researcher
     company: Naturalis Biodiversity Center
     company_url: https://www.naturalis.nl
