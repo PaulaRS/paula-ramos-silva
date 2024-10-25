@@ -6,11 +6,11 @@ title: Paula Ramos-Silva
 superuser: true
 
 # Role/position/tagline
-role: Molecular Biologist and Bioinformatician (she/her, PhD)
+role: Data Steward (she/her, PhD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
+  - name: Leiden University Medical Center
     url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,13 +18,13 @@ bio: Molecular Biologist and Bioinformatician (she/her, PhD)
 
 # Interests to show in About widget
 interests:
-  - Molecular Evolution
-  - Omics
+  - Data Stewardship
+  - Transcriptomics
+  - Proteomics
   - Bioinformatics
-  - Data visualization
+  - Molecular Evolution
   - Biomineralization
   - Spatial Biology
-  
   
 # Education to show in About widget
 education:
@@ -72,6 +72,6 @@ email: 'paula.srs@gmail.com'
 highlight_name: true
 ---
 
-I am a bioinformatician and molecular biologist specializing in evolutionary biology, spatial biology, and customer support. My expertise lies in integrating wet lab experiments with advanced computational techniques for omics data analysis.
+I am a bioinformatician and molecular biologist focused on data stewardship implementations, teaching, best research practices, and research support.
 
 {{< icon name="download" pack="fas" >}}Download my{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.

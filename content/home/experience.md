@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Steward
+    company: Leiden University Medical Center
+    company_url: https://lumcglobal.nl
+    company_logo: 
+    location: Leiden, The Netherlands
+    date_start: '2024-09-16'
+    date_end: 
   - title: Technical Application Scientist
     company: NanoString Technologies
     company_url: https://www.nanostring.com
     company_logo: 
     location: Amsterdam, The Netherlands
     date_start: '2023-03-06'
-    date_end:
+    date_end: '2024-09-13'
     description: I support researchers in resolving complex issues, from sample prep to instrument troubleshooting and multi-omics data analyses.
   - title: Marie Skłodowska-Curie Researcher
     company: Naturalis Biodiversity Center
