@@ -6,7 +6,7 @@ title: Paula Ramos-Silva
 superuser: true
 
 # Role/position/tagline
-role: Data Steward (she/her, PhD)
+role: Data Steward and Teaching Coordinator (she/her, PhD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,13 +18,12 @@ bio: Molecular Biologist and Bioinformatician (she/her, PhD)
 
 # Interests to show in About widget
 interests:
-  - Data Stewardship
-  - Transcriptomics
-  - Proteomics
+  - Omics data
   - Bioinformatics
+  - Data management and stewardship
   - Molecular Evolution
-  - Biomineralization
   - Spatial Biology
+  - Education
   
 # Education to show in About widget
 education:
@@ -72,6 +71,6 @@ email: 'paula.srs@gmail.com'
 highlight_name: true
 ---
 
-I am a bioinformatician and molecular biologist focused on data stewardship implementations, teaching, best research practices, and research support.
+Bioinformatician and molecular biologist with experience in customer support. I support researchers on clinical and biomedical projects, focusing on scientific data management and stewardship.
 
 {{< icon name="download" pack="fas" >}}Download my{{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
